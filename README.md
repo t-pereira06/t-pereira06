@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **42porto**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C, C++**
 
 - 📫 How to reach me **: tiagosodrepereira@gmail.com**
 
