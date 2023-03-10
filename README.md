@@ -4,6 +4,7 @@
 <img align="right" alt="Gif" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmU1YmNlYmU4N2YzZTBhODA4NjNhZjNkOWUwY2E0YTczZWRiMWU5MyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-pereira06&label=Profile%20views&color=0e75b6&style=flat" alt="t-pereira06" /> </p>
+<p align="left"> <img src="https://badge.mediaplus.ma/colorfulwaves/tsodre-p?1337Badge=off&UM6P=off" alt="tsodre-p" /> </p>
 
 - 🔭 I’m currently working on **42porto**
 
