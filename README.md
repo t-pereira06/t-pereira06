@@ -3,8 +3,6 @@
 <h3 align="center">Currently studying in 42porto. IT Management And Programming Technician.</h3>
 <img align="right" alt="tsodre-p" width="400" src="https://badge.mediaplus.ma/colorfulwaves/tsodre-p?1337Badge=off&UM6P=off">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=t-pereira06&label=Profile%20views&color=0e75b6&style=flat" alt="t-pereira06" /> </p>
-
 - 🔭 I’m currently working on **42porto**
 
 - 🌱 I’m currently learning **C, C++**
