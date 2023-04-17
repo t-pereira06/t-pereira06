@@ -20,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-pereira06&layout=compact&theme=github_dark" alt="t-pereira06" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t-pereira06&show_icons=true&locale=en&theme=github_dark" alt="t-pereira06" /></p>
-
-[![tsodre-p's 42 stats](https://badge.mediaplus.ma/darkblue/tsodre-p?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
