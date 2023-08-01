@@ -19,4 +19,5 @@
 
 <h3 align="left">GitHub Status:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t-pereira06&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="t-pereira06" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-pereira06&layout=compact&theme=github_dark&hide_border=true" alt="t-pereira06" /></p>
