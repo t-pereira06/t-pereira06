@@ -3,7 +3,7 @@
 <h3 align="center">Currently studying on 42porto. IT Management And Programming Technician.</h3>
 <img align="right" alt="tsodre-p" width="400" src="https://badge.mediaplus.ma/darkblue/tsodre-p?1337Badge=off&UM6P=off">
 
-- 🔭 I’m currently working on **42porto**
+- 🔭 I’m currently studying on **42porto**
 
 - 🌱 I’m currently learning **C** and **C++**
 
