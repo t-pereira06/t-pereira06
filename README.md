@@ -1,4 +1,4 @@
-![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFzbDU5ZmFiNmtqeDVpaGVrdmt0OG12M2NxNWV6cDM1MzRidTI4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+![MasterHead](https://i.imgur.com/MvMxQ1a.gif)
 <h3 align="center">IT Management And Programming Technician.</h3>
 <img align="right" alt="tsodre-p" width="400" src="https://badge.mediaplus.ma/darkblue/tsodre-p?1337Badge=off&UM6P=off">
 
