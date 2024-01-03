@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.imgur.com/MvMxQ1a.gif" align="center" height="400" width="700" />
+<img src="https://i.imgur.com/MvMxQ1a.gif" align="center" height="400" width="850" />
 </div>
 
 <h3 align="center">IT Management And Programming Technician.</h3>
