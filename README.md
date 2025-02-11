@@ -1,10 +1,23 @@
 <h3 align="center">IT Management And Programming Technician.</h3>
 
-- 🔭 I’m currently studying on **42porto**
+## 📚 Education
 
-- 🌱 I’m currently learning **C** and **C++**
+- **42cursus Graduate**  
+  Completed the intensive and hands-on 42cursus program, which equipped me with a strong foundation in programming and IT management.
 
-- 📫 How to reach me **: tiagosodrepereira@gmail.com**
+## 💼 Current Position
+
+- **Internship at SEA:ME**  
+  Currently applying my skills in an internship at **SEA:ME**, where I am working on real-world projects and further enhancing my technical expertise.
+
+## 🌱 Skills & Technologies
+
+- **Programming Languages:**
+  - Proficient in **C** and **C++**
+  - Continuously expanding knowledge in software development and problem-solving.
+
+- **Tools & Methodologies:**
+  - Gaining hands-on experience with industry-standard tools and workflows in a professional setting.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
