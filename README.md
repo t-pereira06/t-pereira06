@@ -1,14 +1,20 @@
-<h3 align="center">IT Management And Programming Technician.</h3>
+<h3 align="center">IT Management and Programming Technician.</h3>
 
 <h3 align="left"> 📚 Education </h3>
 
 - **42cursus Graduate**  
-  Completed the intensive and hands-on 42cursus program, which equipped me with a strong foundation in programming and IT management.
+  Completed the intensive and hands-on 42cursus program, gaining a strong foundation in programming, problem-solving, and IT management.  
+  <br>
 
-<h3 align="left"> 💼 Current Position </h3>
+- **SEA:ME Program Graduate**  
+  Successfully completed the SEA:ME program — a tuition-free, industry-designed advanced curriculum (Software Engineering in Automotive & Mobility Ecosystems) that trains software engineers for the mobility sector.  
+  <br>
+  Over 10 months I worked on embedded systems, autonomous-driving and smart-mobility projects, learned agile peer-to-peer methodologies, and collaborated with industry partners on real-world challenges.
 
-- **Internship at SEA:ME**  
-  Currently applying my skills in an internship at **SEA:ME**, where I am working on real-world projects and further enhancing my technical expertise.
+<h3 align="left"> 💼 Current Status </h3>
+
+- **Actively Seeking Opportunities**  
+  Currently looking for a position where I can apply my skills, continue growing as a developer, and contribute to meaningful projects.
 
 <h3 align="left"> 🌱 Skills & Technologies </h3>
 
