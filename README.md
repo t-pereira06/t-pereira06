@@ -1,73 +1,74 @@
-<h3 align="center">IT Management and Programming Technician.</h3>
+<h1 align="center">Tiago Pereira</h1>
+<h3 align="center">Embedded Software Developer · Autonomous Vehicles</h3>
 
-<h3 align="left"> 📚 Education </h3>
-
-- **42cursus Graduate**  
-  Completed the intensive and hands-on 42cursus program, gaining a strong foundation in programming, problem-solving, and IT management.  
-  <br>
-
-- **SEA:ME Program Graduate**  
-  Successfully completed the SEA:ME program — a tuition-free, industry-designed advanced curriculum (Software Engineering in Automotive & Mobility Ecosystems) that trains software engineers for the mobility sector.  
-  <br>
-  Over 10 months I worked on embedded systems, autonomous-driving and smart-mobility projects, learned agile peer-to-peer methodologies, and collaborated with industry partners on real-world challenges.
-
-<h3 align="left"> 💼 Current Status </h3>
-
-- **Actively Seeking Opportunities**  
-  Currently looking for a position where I can apply my skills, continue growing as a developer, and contribute to meaningful projects.
-
-<h3 align="left"> 🌱 Skills & Technologies </h3>
-
-- **Programming Languages:**
-  - Proficient in **C**, **C++** and **C#**
-  - Continuously expanding knowledge in software development and problem-solving.
-
-- **Tools & Methodologies:**
-  - Gaining hands-on experience with industry-standard tools and workflows in a professional setting.
-
-<h3 align="left">Languages: </h3>
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img width="10" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img width="10" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img width="10" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img width="10" />
-</p>
-
-<h3 align="left">Tools: </h3>
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/>
-    <img width="10" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-    <img width="10" />
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    <img width="10" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="githubactions" width="40" height="40"/>
-    <img width="10" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="linux" width="40" height="40"/>
-    <img width="10" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    <img width="10" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    <img width="10" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/>
-    <img width="10" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/tiagopereira-pt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiagopereira-pt" height="30" width="40" />
+<p align="center">
+  <a href="https://linkedin.com/in/tiagopereira-pt">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<h3 align="left">GitHub Status:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=t-pereira06&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="t-pereira06" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-pereira06&layout=compact&theme=github_dark&hide_border=true" alt="t-pereira06" />
+---
+
+### About Me
+
+Embedded software developer with hands-on experience in autonomous vehicle systems,
+real-time applications, and CI/CD pipelines for embedded hardware.
+
+Graduated from **SEA:ME Portugal** — an industry-designed advanced programme in
+Software Engineering for Automotive & Mobility Ecosystems — and **42 Porto's**
+Common Core, a rigorous peer-to-peer engineering curriculum spanning 20+ projects
+in low-level C, system programming, algorithms, and collaborative development.
+
+Comfortable working across the full embedded stack: from writing C/C++ on Linux
+and integrating hardware, to training machine learning models and automating
+deployment pipelines directly to edge devices.
+
+Currently seeking a first full-time role in embedded systems, automotive software,
+or backend development. Open to remote and on-site opportunities.
+
+---
+
+### Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+
+**Embedded & Automotive**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![CAN Bus](https://img.shields.io/badge/CAN%20Bus-1B2A4A?style=flat-square&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+**Machine Learning & Vision**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**DevOps & Tools**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![ZeroMQ](https://img.shields.io/badge/ZeroMQ-DF0000?style=flat-square&logo=zeromq&logoColor=white)
+
+**Backend**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=t-pereira06&show_icons=true&locale=en&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-pereira06&layout=compact&theme=github_dark&hide_border=true" />
 </p>
