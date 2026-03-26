@@ -1,5 +1,5 @@
 <h1 align="center">Tiago Pereira</h1>
-<h3 align="center">Embedded Software Developer · Autonomous Vehicles</h3>
+<h3 align="center">Junior Software Developer · Embedded & Automotive Systems</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/tiagopereira-pt">
